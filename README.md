@@ -39,4 +39,4 @@ EasyExploits API
 
 If you are detected with Byfron, it’s a HWID (Hardware ID) ban, meaning that device is fcked.<br>
 
-if you want to bypass byfron you have to download [fluxus executor download executor](https://fluxteam.net/) and download roblox form here [download roblox](https://apps.microsoft.com/store/detail/roblox/9NBLGGGZM6WM)
+if you want to bypass byfron you have to download [fluxus executor](https://fluxteam.net/) and download roblox form here [download roblox](https://apps.microsoft.com/store/detail/roblox/9NBLGGGZM6WM)
