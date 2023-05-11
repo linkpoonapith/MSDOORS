@@ -3,20 +3,21 @@
 **Discord: https://discord.gg/msdoors** or **https://discord.gg/eeHV6Tsfwd**<br>
 # Script:
 ```lua
+--MSHUB
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/mstudio45/MSDOORS/main/MSHUB_Loader.lua"),true))()
 ```
 
 ## SUPPORTED
 PC:<br>
 ㅤㅤㅤPaid:<br>
-ㅤㅤㅤㅤㅤ[Synapse X - (100%)](https://x.synapse.to) - RECOMMENDED<br>
-ㅤㅤㅤㅤㅤ[Script-Ware Windows - (99%)](https://script-ware.com/)<br>
+ㅤㅤㅤㅤㅤNot Updated [Synapse X - (100%)](https://x.synapse.to) - RECOMMENDED<br>
+ㅤㅤㅤㅤㅤNot Updated for windows [Script-Ware Windows - (99%)](https://script-ware.com/)<br>
 ㅤㅤㅤFree:<br>
-ㅤㅤㅤㅤㅤ[KRNL - (100%)](https://krnl.place/)<br>
+ㅤㅤㅤㅤㅤNot Updated [KRNL - (100%)](https://krnl.place/)<br>
 MOBILE:<br>
 ㅤㅤㅤFree:<br>
-ㅤㅤㅤㅤㅤ[Fluxus Android - (100%)](https://fluxteam.net/android)<br>
-ㅤㅤㅤㅤㅤ[Script-Ware iOS - (100%)](https://script-ware.com/ios)<br>
+ㅤㅤㅤㅤㅤUpdated [Fluxus Android - (100%)](https://fluxteam.net/android)<br>
+ㅤㅤㅤㅤㅤdon't know [Script-Ware iOS - (100%)](https://script-ware.com/ios)<br>
 *Other executors are not tested and the script may not work.*<br>
 
 ## NOT SUPPORTED
