@@ -34,9 +34,8 @@ EasyExploits API
 **`Byfron is now released on the global channel.`**<br>
 
 **`The 32-bit is disabled, all bypasses are patched.`** [Remove the bypass script from Tampermonkey or Violentmonkey](https://streamable.com/ap67ik).
- The global version will download so ***`⚠️ DO NOT EXPLOIT ⚠️`***<br>
+ The global version will download so ***`⚠️ DON'T EXPLOIT ⚠️`***<br>
 
 If you are detected with Byfron, it’s a HWID (Hardware ID) ban, meaning that device is fcked.<br>
 
-If you want to use an FPS Unlocker use the [axstin's FPS Unlocker](https://github.com/axstin/rbxfpsunlocker/releases). Use the Flag File method to be safe. Read more about the update in the changelogs.<br>
-
+if you want to bypass byfron you have to download fluxus executor https://fluxteam.net/ and download roblox form here https://apps.microsoft.com/store/detail/roblox/9NBLGGGZM6WM
