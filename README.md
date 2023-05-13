@@ -17,7 +17,7 @@ PC:<br>
 MOBILE:<br>
 ㅤㅤㅤFree:<br>
 ㅤㅤㅤㅤㅤUpdated [Fluxus Android - (100%)](https://fluxteam.net/android)<br>
-ㅤㅤㅤㅤㅤdon't know [Script-Ware iOS - (100%)](https://script-ware.com/ios)<br>
+ㅤㅤㅤㅤㅤUpdated [Script-Ware iOS - (100%)](https://script-ware.com/ios)<br>
 *Other executors are not tested and the script may not work.*<br>
 
 ## NOT SUPPORTED
